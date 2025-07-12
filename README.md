@@ -21,3 +21,6 @@ git remote set-url origin <git@githu.com:...>
 
 git push -u origin main
 ```
+
+## Installation
+Please see [installation.md](docs/installation.md).
